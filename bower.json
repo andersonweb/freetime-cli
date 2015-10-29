@@ -1,0 +1,24 @@
+{
+  "name": "freetime-cli",
+  "description": "CLI tool for register new posts on free-time",
+  "main": "",
+  "authors": [
+    "Fernando Daciuk"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "cli",
+    "freetime",
+    "post-jekyll"
+  ],
+  "homepage": "https://github.com/andersonweb/freetime-cli",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

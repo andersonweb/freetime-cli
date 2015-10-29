@@ -10,6 +10,12 @@ Installing via NPM:
 [sudo] npm i -g freetime-cli
 ```
 
+Installing via Bower:
+
+```sh
+[sudo] bower i -g freetime-cli
+```
+
 ## Usage
 
 Just type on terminal:
